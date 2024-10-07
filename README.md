@@ -7,3 +7,9 @@ Entries are titled using the *YYYY_MM_DD_T* format, where *T* separates unrelate
 I'm always happy to answer questions or chat about anything posted here. If you'd like to comment on a journal entry, please use GitHub's [Discussions](https://github.com/VowSoftware/journal/discussions) feature. Remember to link to the relevant entry somewhere in your post.
 
 Please click the ☆ button on GitHub if this repository is useful. Thank you!
+
+---
+
+| Date | Title | Link |
+| ---- | ----- | ---- |
+| October 5, 2024 | My first experience contributing to the Defold game engine | [2024_10_05_1.md](entries/2024_10_05_1.md) |
