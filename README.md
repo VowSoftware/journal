@@ -8,7 +8,7 @@ Please click the ☆ button on GitHub if this repository is useful. Thank you!
 
 ## Index
 
-[October 5, 2024](entries/2024_10_05_1.md)  
+[October 5, 2024](entries/2024_10_05.md)  
 My First Experience Contributing to the Defold Source Code
 
 [October 7, 2024](entries/2024_10_07.md)  
