@@ -1,6 +1,6 @@
 # Journal
 
-This repository serves as my technical journal. I write about my daily experiences as a software developer, make progress updates on my own projects, discuss topics I see floating around the Internet, reflect on past successes and failures, and instill new knowledge that I gain while making cool stuff.
+This repository serves as my technical journal. I write about whatever I feel might be interesting or useful to other developers, and reflections or progress updates on my own projects.
 
 I'm always happy to answer questions or chat about anything posted here. If you'd like to comment on a journal entry, please use GitHub's [Discussions](https://github.com/VowSoftware/journal/discussions) feature. Remember to link to the relevant entry somewhere in your post.
 
